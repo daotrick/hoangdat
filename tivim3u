@@ -113,7 +113,7 @@ http://14.186.66.114:8889/rtp/232.84.1.245:10344
 #EXTINF:-1 group-title="VTVCab udpxy" tvg-logo="" group-title="VTVCab,VTVcab 23 GOLF TV (HD 8.5Mbps)
 http://14.186.66.114:8889/rtp/232.84.2.246:10876
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV", SCTV1 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/881892860?ticket=3E583A5F26E195B937D25BD70E179391A27B9498&profile=pass
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
