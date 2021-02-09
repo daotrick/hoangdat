@@ -116,71 +116,71 @@ http://14.186.66.114:8889/rtp/232.84.2.246:10876
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV", SCTV1 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/881892860?ticket=3E583A5F26E195B937D25BD70E179391A27B9498&profile=pass
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/859749816?ticket=EF792D48A6D2E52443C80DC2CF9CF3265F9C424E&profile=pass
 
-#EXTINF:-1 tvg-id="sctv3hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/1500671917?ticket=763247B4DA070C83FE2B210410085C08BA51DD05&profile=pass
 
-#EXTINF:-1 tvg-id="sctv4hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/1571678450?ticket=FC56CE3AD7BA5E465FC14C24204B3B43DCA32E6F&profile=pass
 
-#EXTINF:-1 tvg-id="sctv5hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
 https://vtsstr3.tv24.vn/elive/_definst_/SCTV5_SD.smil/chunklist_w1179357146_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/608610385?ticket=0A3818A0FC93AAEBA547B9AA654E16CE153501C2&profile=pass
 
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/2004481942?ticket=5B62EB3589BFAF3273ADEF1AB8D3C81E462FE5CE&profile=pass
 
-#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV", SCTV8 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/777783642?ticket=EAAD569F5D8091D26F5774C955CBAB7E5FD012B9&profile=pass
 
-#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV", SCTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36"
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/447670449?ticket=B44FF8C56BF0C49A08EA40BD9F9C4AE7967CAA52&profile=pass
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 #http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/1310643170
 
 
 
-#EXTINF:-1 tvg-id="sctv12hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/zvRcSH9x/sctv12hd.png",SCTV12 HD
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/zvRcSH9x/sctv12hd.png",SCTV12 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/37045861?ticket=7621804248AD252364BD6B5FC658245BB0864543&profile=pass
 
-#EXTINF:-1 tvg-id="sctv13hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png",SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/sfQj06zN/sctv13hd.png",SCTV13 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/217821913?ticket=94D48CF72498EBACEA12B4C183857933495A9928&profile=pass
 
-#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.postimg.cc/zG5qvqgs/sctv14hd.png" group-title="SCTV", SCTV14 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/111544047?ticket=4B3B5F7195B0018E103062FC8358F0B1B3E5A299&profile=pass
 
-#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV15 HD
+#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="SCTV", SCTV15 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/420966731?ticket=BCA31734DAD26BDE0629F38DE4064158DE0BA1DD&profile=pass
 
-#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV16 HD
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://i.postimg.cc/yN8Bhnnn/sctv16hd.png" group-title="SCTV", SCTV16 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/47235943?ticket=CA4533DF5F771049C51694798AEAA9FAE5E03B5A&profile=pass
 
-#EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/gcZpKxq9/sctv17hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂",SCTV17 HD
+#EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://i.postimg.cc/gcZpKxq9/sctv17hd.png" group-title="SCTV",SCTV17 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/919417919?ticket=312467E3E252A9A503DD5A23562F6F1D5AE86897&profile=pass
 
-#EXTINF:-1 tvg-id="sctv18hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Y94HZ95W/sctv18hd.png",SCTV18 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/1121969254?ticket=F2322F672DA43CE391AB9231A476B04F03748E83&profile=pass
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/RFvSY4M1/sctv19hd.png",SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/RFvSY4M1/sctv19hd.png",SCTV19 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/180469340?ticket=B052D0D2E99173EDE85A052AC8F373468FFEB46F&profile=pass
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="꧁❦🅢🅒🅣🅥❦꧂" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/cHTxy2Hp/sctv20hd.png",SCTV20 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/894758001?ticket=B77B970F7313923339C235FBF92C59B5AF65338D&profile=pass
 
-#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://i.postimg.cc/8c0TsvLw/sctv22hd.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV22 HD
+#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://i.postimg.cc/8c0TsvLw/sctv22hd.png" group-title="SCTV", SCTV22 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/190879786?ticket=4D3F52FB465AE37EA57AF34E128ABC63B95CC395&profile=pass
 
-#EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" group-title="꧁❦🅢🅒🅣🅥❦꧂",BTV5 HD
+#EXTINF:-1 tvg-id="btv5hd" tvg-logo="https://i.postimg.cc/mZXLmvKM/sctv-btv5-ssport3.png" group-title="SCTV",BTV5 HD
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/523669976?ticket=EE8EF6259E84ACA10C74656EAD23F824390DC288&profile=pass
 
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="꧁❦🅢🅒🅣🅥❦꧂", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/968434350?ticket=ADC3B53B48BDDE9413A0DF0517964C3580A600D3&profile=pass
 
 
