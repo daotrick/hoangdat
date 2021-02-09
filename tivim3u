@@ -184,9 +184,6 @@ http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/523669976
 http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/968434350?ticket=ADC3B53B48BDDE9413A0DF0517964C3580A600D3&profile=pass
 
 
-
-
-
 #EXTINF:-1  group-title="AVG" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên HD
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="AVG",NCM BYV10
