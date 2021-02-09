@@ -198,12 +198,6 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/1-a.jpg" group-title="AVG",SAM CHANNEL
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png", SCTV17 HD - Ssport
-https://bom.to/SCTV17
-#EXTINF:-1 group-title="Sports" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png", SCTV22 HD - Ssport1
-https://bom.to/SCTV22
-#EXTINF:-1 group-title="Sports" tvg-logo="https://lh3.googleusercontent.com/-1bmdnBSIk88/WpOHchHFhZI/AAAAAAAAD0E/oonOArz9dOkZaackkFEuXNT9fF4k6mIvwCEwYBhgL/h350/s15-hd-kbg.png", SCTV15 HD - Ssport2
-https://bom.to/SCTV15
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Quốc Tế",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
