@@ -457,3 +457,16 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
+
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV", SCTV1 HD
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV2.m3u8
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV3HD.m3u8
+
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV4.m3u8
+
