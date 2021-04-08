@@ -152,10 +152,8 @@ https://chungxda.github.io/m3u8/VTVCab/VTVCab20.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV", SCTV1 HD
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
-
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV2.m3u8
-
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV3HD.m3u8
 
