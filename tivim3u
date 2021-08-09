@@ -225,14 +225,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 http://gg.gg/cocabox
 
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocahbo
-http://gg.gg/cocahbo
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocamax
-http://gg.gg/cocamax
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
 
