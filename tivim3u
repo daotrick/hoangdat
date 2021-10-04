@@ -94,26 +94,16 @@ https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Quốc Tế",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-
-#EXTINF:0 tvg-id="fox_movies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png",FOX Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Quốc Tế",Fox Family Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",Box Hits
+#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/BoxHits_2021-1.png",BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://e3.endpoint.cdn.sctvonline.vn/hls/boxhits/sd1/index.m3u8|Referer=http://sctvonline.vn/
-http://gg.gg/cocaboxhi
+http://gg.gg/cc-boxhits|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="boxchannel" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",Box Channel
+#EXTINF:0 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/BM1_Black_2021-1.png",BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://e3.endpoint.cdn.sctvonline.vn/hls/boxchannel/sd1/index.m3u8|Referer=http://sctvonline.vn/
-http://gg.gg/cocaboxch
+#http://gg.gg/cc-boxmovie|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 
 
 
@@ -127,7 +117,9 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Quốc Tế",AXN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc Tế",WBTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Quốc Tế",Cinema World
@@ -164,7 +156,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Quốc Tế",Discovery
+#EXTINF:0  tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
