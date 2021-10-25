@@ -84,12 +84,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-
 
 
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="https://vthanh.xyz/ic/99.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="An Viên" tvg-logo="https://vthanh.xyz/ic/99.png", BTV9 - An Viên TV
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ncm" group-title="Khác" tvg-logo="https://vthanh.xyz/ic/100.png", BTV10 - NCM
+#EXTINF:-1 tvg-id="ncm" group-title="An Viên" tvg-logo="https://vthanh.xyz/ic/100.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="youtv" group-title="Hanoicab" tvg-logo="https://vthanh.xyz/ic/102.png", Hanoicab2 - YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="An Viên" tvg-logo="https://vthanh.xyz/ic/102.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 
@@ -103,7 +103,7 @@ http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="hits" group-title="Giải trí" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
+#EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
 http://103.195.238.226/hits/mpegts
 
 
@@ -164,7 +164,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1  tvg-id="national_geographic_wild" group-title="Khoa Giáo  - Du Lịch K.Pha" tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png" group-title="Quốc Tế",Nat Geo WILD
+#EXTINF:-1  tvg-id="national_geographic_wild" group-title="Quốc Tế" tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png" group-title="Quốc Tế",Nat Geo WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Quốc Tế",Discovery HD
@@ -176,7 +176,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
 http://vthanh.xyz/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="Quốc Tế",BBC Earth
