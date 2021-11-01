@@ -1,5 +1,5 @@
 #EXTM3U phuonglinh (Path http://gg.gg/phuonglinh)
-
+# EXTM3U url-tvg = "http://trada.info/epg.xml" tvg-shift = 0 cache = 500 deinterlace = 1 co-ratio = 16: 9 m3uautoload = 1 
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
@@ -93,15 +93,24 @@ https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/BM1_Black_2021-1.png",BOX Movie¹
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#http://gg.gg/cc-boxmovie|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "boxmovie1" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/192.png", Box Movie 1
+http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "hollywoodclassics" group-title = "📦 | In The Box" tvg-logo = "https://vthanh.xyz/ic/193.png", Kinh điển Hollywood
+http://vthanh.xyz/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "inthebox" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/241.png" catchup = "append" catchup-days = "0.3" catchup-source = "https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", Trong Hộp
+http://103.195.238.226/inthebox/mpegts
+#EXTINF: -1 tvg-id = "boxhits" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/242.png" catchup = "append" catchup-days = "0.3" catchup-source = "https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+http://103.195.238.226/boxhits/mpegts
+#EXTINF: -1 tvg-id = "man" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/243.png" catchup = "append" catchup-days = "0.3" catchup-source = "https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
+http://103.195.238.226/man/mpegts
+#EXTINF: -1 tvg-id = "drfithd" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/196.png", Dr Fit
+http://vthanh.xyz/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "happykids" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/194.png", Happy Kids
+http://vthanh.xyz/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "musicbox" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/240.png", Hộp nhạc
+http://vthanh.xyz/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "planetearthhd" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/195.png", Planet Earth
+http://vthanh.xyz/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
 http://103.195.238.226/hits/mpegts
@@ -112,6 +121,17 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF: 0 tvg-id = "hbohd-asia" group-title = "Quốc Tế" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px -HBO_logo.svg.png ", HBOᵃˢᶦᵃ
+#EXTVLCOPT: http-user-agent = "CoocaaTV"
+# EXT-X-STREAM-INF: BANDWIDTH = 687256, AVERAGE-BANDWIDTH = 687256, CODECS = "avc1.640015, mp4a.40.2", PROGRAM-ID = 1, RESOLUTION = 1920x1080, AUDIO = "audiod", SUBTITLES = " Tiếng Việt"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF: 0 tvg-id = "cinemaxhd-asia" group-title = "Quốc Tế" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png", HBOᵃˢᶦᵃ Cine
+#EXTVLCOPT: http-user-agent = "CoocaaTV"
+# EXT-X-STREAM-INF: BANDWIDTH = 687256, AVERAGE-BANDWIDTH = 687256, CODECS = "avc1.640015, mp4a.40.2", PROGRAM-ID = 1, RESOLUTION = 1920x1080, AUDIO = "audiod", SUBTITLES = " Tiếng Việt"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+
 
 
 
@@ -130,11 +150,8 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Quốc Tế",KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg",Happy Kids
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#http://gg.gg/cc-kid|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "happykids" group-title = "Quốc Tế" tvg-logo = "https://vthanh.xyz/ic/194.png", Happy Kids
+http://vthanh.xyz/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
 
 
 
